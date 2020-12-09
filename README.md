@@ -23,7 +23,7 @@ Some semi-automated scripts which make pdf (version 1.3) shows its own md5.
 ## Install:
 
  	1. You need to get Unicoll from https://github.com/cr-marcstevens/hashclash and build it.
- 	2. Just put exploit folder in the hashclash folder
+ 	2. Just put exploit and hex folder in the hashclash folder
 
 
 
