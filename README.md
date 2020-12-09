@@ -71,7 +71,7 @@ Some semi-automated scripts which make pdf (version 1.3) shows its own md5.
 
 ## TIPS:
 
-- You may see something uncontrolled in you cloud server:![https://github.com/GouBa-1/PDF_SHOW_MD5/blob/main/WS(S6J%7B1AP%60_PU4P_4ZDR~1.png]
+- You may see something uncontrolled in you cloud server:![Image text]()
 
   Because unicoll may collide some code be mistaken for command, XD
 
