@@ -71,7 +71,7 @@ Some semi-automated scripts which make pdf (version 1.3) shows its own md5.
 
 ## TIPS:
 
-- You may see something uncontrolled in you cloud server:![image-20201210001157747](C:\Users\gouba\AppData\Roaming\Typora\typora-user-images\image-20201210001157747.png)
+- You may see something uncontrolled in you cloud server:![Image text]( 这里是你的图片链接)
 
   Because unicoll may collide some code be mistaken for command, XD
 
