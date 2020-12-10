@@ -1,7 +1,7 @@
 # PDF_SHOW_MD5
 
 Some semi-automated scripts which make pdf (version 1.3) shows its own md5.
-
+It takes about 40+ hours in my virtual machine.
 (This is the first time I have written a project, and it is also the first time I have used python3 outside of the tutorial, kindly for your guidance)
 
 
@@ -81,4 +81,5 @@ Some semi-automated scripts which make pdf (version 1.3) shows its own md5.
 
 - If you want to IDY your own PDF just change files in hex folder
 
-
+## About Demo:
+  I made a mistake in demo which lead to miss 6th nibble. But it takes too long to run completely once, so maybe you can provide your pdf!
